@@ -1,0 +1,10 @@
+C:\Users\User\Documents\GitHub\CashRegister\CashRegister\CashRegister\bin\Debug\CashRegister.exe.config
+C:\Users\User\Documents\GitHub\CashRegister\CashRegister\CashRegister\bin\Debug\CashRegister.exe
+C:\Users\User\Documents\GitHub\CashRegister\CashRegister\CashRegister\bin\Debug\CashRegister.pdb
+C:\Users\User\Documents\GitHub\CashRegister\CashRegister\CashRegister\obj\Debug\CashRegister.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\CashRegister\CashRegister\CashRegister\obj\Debug\CashRegister.Form1.resources
+C:\Users\User\Documents\GitHub\CashRegister\CashRegister\CashRegister\obj\Debug\CashRegister.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\CashRegister\CashRegister\CashRegister\obj\Debug\CashRegister.csproj.GenerateResource.Cache
+C:\Users\User\Documents\GitHub\CashRegister\CashRegister\CashRegister\obj\Debug\CashRegister.exe
+C:\Users\User\Documents\GitHub\CashRegister\CashRegister\CashRegister\obj\Debug\CashRegister.pdb
+C:\Users\User\Documents\GitHub\CashRegister\CashRegister\CashRegister\obj\Debug\CashRegister.ListEditor.resources
